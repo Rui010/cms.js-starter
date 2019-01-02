@@ -29,5 +29,4 @@ y_test = torch.Tensor(y_test)`
 y_train = torch.Tensor(y_train).long()
 y_test = torch.Tensor(y_test).long()
 `
-
-うまく、学習ができた。
+エラーが消え、学習ができる
